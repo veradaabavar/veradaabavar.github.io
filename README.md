@@ -1,3 +1,3 @@
 # Arquivos do Site
-Domínio: veradaabavar@gmail.com
+Domínio: veradaabavar.com.br
 
